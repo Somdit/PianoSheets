@@ -1,5 +1,4 @@
-# Piano Sheets (Mostly IDOL@MASTER Series)
-
+# Piano Sheets
 This repository holds piano sheets transcribed and arranged by me, mostly from the **IDOL@MASTER** series.
 
 You are welcome to use them for your own practice, playing, and performances.  
