@@ -2,7 +2,7 @@
 This repository holds piano sheets transcribed and arranged by me, mostly from the **IDOL@MASTER** series.
 
 You are welcome to use them for your own practice, playing, and performances.  
-I’ll be absolutely delightful If you reference me,
+I’ll be absolutely delightful if you reference me,
 
 but please understand that **redistribution** and **commercial use** are not allowed.
 
@@ -28,7 +28,7 @@ I am also happy to share my Producer’s card with you:
 ---
 
 ## Note
-I am not a professional musician. These sheets are made with care, but they may still contain mistakes.  
+I am not a professional. These sheets are made with care, but they may still contain mistakes.  
 If you notice anything, feel free to adapt or adjust as needed.
 
 ---
