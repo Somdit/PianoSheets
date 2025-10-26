@@ -13,6 +13,7 @@ but please understand that **redistribution** and **commercial use** are not all
 ### Recordings of performance by me (certainly playable)
 - [M@STERPIECE](https://www.bilibili.com/BV1zREMzpE8S)  
 - [虹色ミラクル](https://www.bilibili.com/video/BV1FGvveLErW/)
+- [お願い！シンデレラ](https://youtu.be/LCy92iOKv_I?si=ANEzEIm7DpLw523T)
 
 ### With synchronized sheet music
 - [アイム・ア・リトル・プリンセス〜お星さまにお願い〜](https://www.bilibili.com/video/BV1sz4y1z7Ds/)  
