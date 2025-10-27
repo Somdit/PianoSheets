@@ -10,7 +10,7 @@ but please understand that **redistribution** and **commercial use** are not all
 
 ## Available Recordings
 
-### Recordings of performance by me (certainly playable)
+### Recordings of performance by me
 - [M@STERPIECE](https://www.bilibili.com/BV1zREMzpE8S)  
 - [虹色ミラクル](https://www.bilibili.com/video/BV1FGvveLErW/)
 - [お願い！シンデレラ](https://youtu.be/LCy92iOKv_I?si=ANEzEIm7DpLw523T)
